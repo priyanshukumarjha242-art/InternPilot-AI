@@ -1,0 +1,29 @@
+John Doe
+Software Engineering Student
+Email: john.doe@example.com | Phone: (555) 123-4567 | GitHub: github.com/johndoe
+
+SUMMARY
+Highly motivated Software Engineering student with experience in building full-stack
+web applications. Passionate about AI, web development, and writing clean code.
+
+EDUCATION
+B.S. in Computer Science - Tech University
+Expected Graduation: May 2027 | GPA: 3.8/4.0
+Relevant Coursework: Data Structures, Algorithms, Web Development, Databases.
+
+EXPERIENCE
+Software Engineer Intern | InnovateTech
+June 2025 - August 2025
+- Developed responsive user interfaces using React and Tailwind CSS.
+- Collaborated with backend engineers to integrate RESTful APIs using Node.js.
+- Improved page load performance by 15% through lazy loading and code splitting.
+
+PROJECTS
+InternPilot - Internship Tracker (React, Node.js, SQLite)
+- Built a full-stack platform for students to track internship applications.
+- Integrated Google Gemini AI to analyze job descriptions and prep for interviews.
+
+SKILLS
+Languages: JavaScript, Python, HTML/CSS, SQL
+Frameworks/Libraries: React, Node.js, Express, Tailwind
+Tools & Tech: Git, GitHub, VS Code, REST APIs, SQLite

@@ -1,0 +1,2 @@
+const express = require('require');
+// Wait, I should write the controller first before the routes. Let's do the controller first.
